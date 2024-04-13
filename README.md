@@ -5,6 +5,15 @@ This repository contains the implementation for our paper titled "Analysing hete
 
 Figure 1: Our proposed multimodal normative modeling framework (mmVAE).
 
+## Datasets & Feature extraction
+
+### Datasets
+
+Our analysis included a discovery dataset consisting of individuals from ADNI and a replication dataset consisting of individuals from Charles F. and Joanne Knight Alzheimer’s Disease Research Center (ADRC) dataset at Washington University in St. Louis.
+
+ADNI data used in this study are publicly available and can be requested following ADNI Data Sharing and Publications Committee guidelines: [https://adni.loni.usc.edu/data-samples/access-data/](https://adni.loni.usc.edu/data-samples/access-data/). Knight ADRC data can be obtained by submitting a data request through [https://knightadrc.wustl.edu/data-request-form/](https://knightadrc.wustl.edu/data-request-form/). 
+
+
 ## Acknowledgement
 
 This work was supported by the Centene Corporation contract (P19-00559) for the Washington University-Centene ARCH Personalized Medicine Initiative and
