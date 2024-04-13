@@ -1,7 +1,7 @@
 # Overview
 This repository contains the implementation for our paper titled "Analysing heterogeneity in Alzheimer Disease using multimodal normative modelling on ATN biomarkers", [[BiorXiv](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473626/)] 
 
-<img align="center" width="65%" height="80%" src="Plots/workflow.png"> 
+<img align="center" width="60%" height="75%" src="Plots/workflow.png"> 
 
 Figure 1: Our proposed multimodal normative modeling framework (mmVAE).
 
